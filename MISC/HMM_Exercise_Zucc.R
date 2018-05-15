@@ -1,4 +1,4 @@
-# Markov Chain Model for Walmat Data.
+# Playing with WalMart data on Zucchini exercise
 # Richard Shea 
 # Math 625.492 Project
 
